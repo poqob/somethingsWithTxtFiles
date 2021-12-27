@@ -5,8 +5,8 @@
 **				          PROGRAMLAMAYA GIRISI DERSI
 **
 **				ODEV NUMARASI…...:  3 project 
-**				OGRENCI ADI...............: Mustafa BICER
-**				OGRENCI NUMARASI.:  B201210078
+**				OGRENCI ADI...............: Poqob
+**				OGRENCI NUMARASI.:  B
 **				DERS GRUBU…………: C
 ****************************************************************************/
 // total 2.360 line .
